@@ -6,4 +6,4 @@ Mit tapasztalsz? Milyen üzenet jelenik meg a képernyőn?
 
 szo = int(input("Adj meg egy szót: "))
 
-print(szo)
+print(szo) # ValueError: invalid literal for int() with base 10: 'szó'

@@ -4,4 +4,4 @@ ami előzőleg nem is szerepel a kódodban.
 Hogyan jelöli a fejlesztői környezet a hibát? Futtasd! Milyen hibaüzenetet kapsz? 
 """
 
-print(nemismerlek) # Ez a változó nincs definiálva
+print(nemismerlek) # NameError: name 'nemismerlek' is not defined
